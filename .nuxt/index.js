@@ -12,7 +12,7 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_4aa22f3a from 'nuxt_plugin_plugin_4aa22f3a' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_plugin_7f2aab5e from 'nuxt_plugin_plugin_7f2aab5e' // Source: ./components/plugin.js (mode: 'all')
 import nuxt_plugin_vuemasonry_087bf870 from 'nuxt_plugin_vuemasonry_087bf870' // Source: ../plugins/vue-masonry (mode: 'client')
 
 // Component: <ClientOnly>
@@ -64,7 +64,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"mk-architects","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"},{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"}],"style":[],"script":[]},
+    head: {"title":"mk-architects","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-awidth, initial-scale=1, maximum-scale=1, user-scalable=no"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"},{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.png"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -179,8 +179,8 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_4aa22f3a === 'function') {
-    await nuxt_plugin_plugin_4aa22f3a(app.context, inject)
+  if (typeof nuxt_plugin_plugin_7f2aab5e === 'function') {
+    await nuxt_plugin_plugin_7f2aab5e(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_vuemasonry_087bf870 === 'function') {

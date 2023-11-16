@@ -2,36 +2,36 @@
   {
     "name": "bio",
     "path": "/bio",
-    "component": "/Users/rina/Desktop/mk-architects/pages/bio.vue",
+    "component": "/Users/rina/Desktop/mk-architects 2/pages/bio.vue",
     "chunkName": "pages/bio",
-    "_name": "_36e9f2fb"
+    "_name": "_3e58b366"
   },
   {
     "name": "test2",
     "path": "/test2",
-    "component": "/Users/rina/Desktop/mk-architects/pages/test2.vue",
+    "component": "/Users/rina/Desktop/mk-architects 2/pages/test2.vue",
     "chunkName": "pages/test2",
-    "_name": "_38b22d13"
+    "_name": "_0efc53e5"
   },
   {
     "name": "testindex",
     "path": "/testindex",
-    "component": "/Users/rina/Desktop/mk-architects/pages/testindex.vue",
+    "component": "/Users/rina/Desktop/mk-architects 2/pages/testindex.vue",
     "chunkName": "pages/testindex",
-    "_name": "_0b833933"
+    "_name": "_604cb1f6"
   },
   {
     "name": "works-myhome",
     "path": "/works/myhome",
-    "component": "/Users/rina/Desktop/mk-architects/pages/works/myhome.vue",
+    "component": "/Users/rina/Desktop/mk-architects 2/pages/works/myhome.vue",
     "chunkName": "pages/works/myhome",
-    "_name": "_53102155"
+    "_name": "_58e60a43"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/rina/Desktop/mk-architects/pages/index.vue",
+    "component": "/Users/rina/Desktop/mk-architects 2/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_51703f05"
+    "_name": "_27ba65d7"
   }
 ]

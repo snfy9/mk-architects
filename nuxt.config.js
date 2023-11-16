@@ -32,7 +32,7 @@ export default {
   plugins: [
     { src: '~/plugins/vue-masonry', ssr: false }
   ],
-
+  
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
   
@@ -56,4 +56,3 @@ export default {
   }
 
 }
-
