@@ -35,7 +35,6 @@
 </template>
 
 <script>
-  /* Icon */
   import instagramIcon from '@/components/instagramIcon.vue';
   import weiboIcon from '@/components/weiboIcon.vue';
 
