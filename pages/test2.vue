@@ -6,7 +6,7 @@
       </div>
       <nav class="menu">
         <ul>
-          <li><NuxtLink to="/index">Works</NuxtLink></li>
+          <li><NuxtLink to="/">Works</NuxtLink></li>
           <li><NuxtLink to="/bio">Bio</NuxtLink></li>
           <li><NuxtLink to="/bio">Contact</NuxtLink></li>
         </ul>
@@ -30,7 +30,7 @@ export default {
   data() {
     return {
       items: [
-         { id: 1, src: '/works/image1.jpg', order: 1, caption: 'The Floating Gardens of Serendipity', description: 'Utopian Vale, 2011' , projectName: 'myHome' },
+         { id: 1, src: '/works/image1.jpg', order: 1, caption: 'The Floating Gardens of Serendipity', description: 'Utopian Vale, 2011' , projectName: '' },
          { id: 2, src: '/works/image3.jpg', order: 2, caption: 'The Floating Gardens of Serendipity', description: 'Utopian Vale, 2011' },
          { id: 3, src: '/works/image2.jpg', order: 3, caption: 'The Floating Gardens of Serendipity', description: 'Utopian Vale, 2011' },
          { id: 4, src: '/works/image5.jpg', order: 4, caption: 'The Floating Gardens of Serendipity', description: 'Utopian Vale, 2011' },
