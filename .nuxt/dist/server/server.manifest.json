@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/instagram-icon.js": "components/instagram-icon.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "components/weibo-icon.js": "components/weibo-icon.js",
+    "pages/bio.js": "pages/bio.js",
+    "pages/index.js": "pages/index.js",
+    "pages/test2.js": "pages/test2.js",
+    "pages/testindex.js": "pages/testindex.js",
+    "pages/works/myHome.js": "pages/works/myHome.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/instagram-icon.js": "components/instagram-icon.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "components/weibo-icon.js": "components/weibo-icon.js.map",
+    "pages/bio.js": "pages/bio.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/test2.js": "pages/test2.js.map",
+    "pages/testindex.js": "pages/testindex.js.map",
+    "pages/works/myHome.js": "pages/works/myHome.js.map",
+    "server.js": "server.js.map"
+  }
+}

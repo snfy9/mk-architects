@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{314:function(t,n,e){"use strict";e.r(n);var o={data:function(){return{svgPath:"/weibo.svg"}}},r=e(45),component=Object(r.a)(o,(function(){var t=this._self._c;return t("div",[t("img",{attrs:{src:this.svgPath,alt:"Weibo Icon",width:"16",height:"16"}})])}),[],!1,null,null,null);n.default=component.exports}}]);

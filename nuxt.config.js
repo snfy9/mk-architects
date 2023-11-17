@@ -2,7 +2,6 @@ export default {
     // Target: https://go.nuxtjs.dev/config-target
     target: 'static',
 
-    
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'mk-architects',
@@ -57,6 +56,16 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  generate: {
+    routes: [
+      '/',
+      '/bio',
+      '/test2',
+      '/testindex',
+      '/works/myHome'
+    ]
   }
 
 }

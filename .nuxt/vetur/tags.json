@@ -1,0 +1,11 @@
+{
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "InstagramIcon": {
+    "description": "Auto imported from components/instagramIcon.vue"
+  },
+  "WeiboIcon": {
+    "description": "Auto imported from components/weiboIcon.vue"
+  }
+}
