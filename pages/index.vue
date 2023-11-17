@@ -31,7 +31,6 @@
       <p>© mk-architects, 2023</p>
     </footer>
   </div>
-  
 </template>
 
 <script>
