@@ -1,6 +1,6 @@
-export const Tutorial = () => import('../../components/Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
-export const InstagramIcon = () => import('../../components/instagramIcon.vue' /* webpackChunkName: "components/instagram-icon" */).then(c => wrapFunctional(c.default || c))
-export const WeiboIcon = () => import('../../components/weiboIcon.vue' /* webpackChunkName: "components/weibo-icon" */).then(c => wrapFunctional(c.default || c))
+export { default as Tutorial } from '../../components/Tutorial.vue'
+export { default as InstagramIcon } from '../../components/instagramIcon.vue'
+export { default as WeiboIcon } from '../../components/weiboIcon.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

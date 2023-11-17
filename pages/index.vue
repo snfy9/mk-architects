@@ -13,7 +13,6 @@
       </div>
       <nav class="bio">
         <NuxtLink to="/bio">bio</NuxtLink>
-        <NuxtLink to="/test2">testpage</NuxtLink>
       </nav>      
       <div class="icon-container">
         <div class="icon">

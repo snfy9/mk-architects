@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{312:function(t,n,r){"use strict";r.r(n);var c={data:function(){return{svgPath:"/instagram.svg"}}},e=r(45),component=Object(e.a)(c,(function(){var t=this._self._c;return t("div",[t("img",{attrs:{src:this.svgPath,alt:"Instagram Icon",width:"16",height:"16"}})])}),[],!1,null,null,null);n.default=component.exports}}]);
